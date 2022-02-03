@@ -1,9 +1,7 @@
-Hi, I’m @ChrisScarred (Chris "Scar(R)ed" Vajdík).
+Hello, I am **Chris 'Scar(R)ed' Vajdík**, and my pronouns are **they/them**.
 
-I am **an AI student**, **a web developer** and **a research engineer** solving current **NLP** problems. While building my projects, I pay a special attention to **security** and **user experience** since these aspects are often treated as an after-thought rather than being integrated with the principal ideas of every project.
+I am **an AI student** at Radboud University, **a volunteer web developer** and **an AI (research) engineer** specialising in **natural language processing**. While building my projects, I pay special attention to **security** and **user experience** and integrate these aspects with the principal components of every project.
 
-Besides my qualifications, I outline my active support of marginalised societal groups. I am currently developing **a collaborative writing platform for Slovak and Czech writers** which will feature a safe, moderated discussion space to help dismiss the misinformation and stigma around subjects such as mental health and LGBT+ topics.
+I devote a significant amount of my time to supporting marginalised societal groups. I am the founder and a moderator of **Pastel Black**, a queer-friendly community of young CZ/SK collaborative writers, which features a safe, moderated discussion space to help dissipate the misinformation and stigma around subjects such as mental health and queer topics. I am building a web-based platform for the community and planning to launch **an online CZ/SK queer dictionary**.
 
 Check [my LinkedIn profile](https://www.linkedin.com/in/chris-vajdik/ "Chris' LinkedIn Profile") and [my ArtStation handle](https://www.artstation.com/chris_scar-r-ed/profile "Chris' ArtStation Handle") too!
-
-[My Pronouns](https://en.pronouns.page/@Scar_r_ed)
